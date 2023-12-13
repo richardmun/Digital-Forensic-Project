@@ -1,2 +1,2 @@
 # Digital-Forensic-Project
-Conduct a digital forensic investigation by gathering artifacts, examining evidence, and compose a report.
+Conduct a digital forensic investigation by gathering artifacts, examining evidence, and compose a report. Report consist of tables representing of artifacts and other findings that were discovered during the forensic examination of a disc image file and multiple logical files. Items discovered consisted of text-based evidence and images that resulted in the explanation of suspect acvities. Tools used to complete this project were Autopsy: Digital Forensic, Kali Linux, Wireshark, fcrackzip, rockyou.txt.
